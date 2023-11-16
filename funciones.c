@@ -25,7 +25,7 @@ double divs(double a, double b)
 
 double pow(double a, double b)
 {
-	//TODO completame
+	//Equipo 5 Devin Zedrik
 	return 0;
 }
 
