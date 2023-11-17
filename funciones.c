@@ -49,7 +49,7 @@ double ceil(double a)
 
 double trunc(double a)
 {
-	//TODO completame
+	// Cesar Alejandro Rivas Vargas 23310125, Osvaldo Samuel Garibay Ochoa 23310130 - EQUIPO 9
 	return 0;
 }
 
