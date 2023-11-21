@@ -11,7 +11,7 @@ double subs(double a, double b)
 	//TODO completame
 	return 0;
 }
-
+// Equipo 3
 double mult(double a, double b)
 {
 	//TODO completame
