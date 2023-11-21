@@ -20,6 +20,9 @@ double mult(double a, double b)
 double divs(double a, double b)
 {
 	//TODO completame
+	/*Equipo 4
+	Juan Carlos Estrada Arriaga
+	Christian Alexis Rosario Gálvez*/
 	return 0;
 }
 
