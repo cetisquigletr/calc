@@ -2,7 +2,7 @@
 
 double add(double a, double b)
 {
-	//TODO completame
+// Emily Aidee Sandoval Amaral 23310115, Karol Jesabel Benítez Aréchiga 23310104 - EQUIPO 1
 	return 0;
 }
 
