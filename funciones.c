@@ -6,6 +6,7 @@ double add(double a, double b)
 	return 0;
 }
 
+\\Equipo 2 Mirna Benitez/Samantha Preciado
 double subs(double a, double b)
 {
 	//TODO completame
