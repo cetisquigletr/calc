@@ -47,7 +47,7 @@ double floor(double a)
 
 double ceil(double a)
 {
-	//TODO completame
+	//ALBERTO MORONES AREVALO E IVAN PAYAN EQUIPO8
 	return 0;
 }
 
