@@ -59,7 +59,7 @@ double trunc(double a)
 
 double round(double a)
 {
-	//TODO completame
+	//Equipo 10 Jose Julian y Sebastian Gonzalez
 	return 0;
 }
 
