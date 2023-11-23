@@ -66,7 +66,7 @@ double round(double a)
 
 int equals(double a, double b)
 {
-	//TODO completame
+	//Ambar Aillyn Delgado Covarrubias - Gabriel Pilar Soto    equipo-11
 	return 0;
 }
 
