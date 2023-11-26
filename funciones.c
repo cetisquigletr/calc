@@ -36,6 +36,8 @@ double pow(double a, double b)
 double mod(double a, double b)
 {
 	//TODO completame
+	//Estefania Ferrer Espinoza 23310147
+	//Santiago De la Torre Urrutia 23310111
 	return 0;
 }
 
